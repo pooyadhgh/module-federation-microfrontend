@@ -1,3 +1,3 @@
-import 'products/ProductsIndex';
+import '@products/ProductsIndex';
 
 console.log('Container!');
